@@ -1,0 +1,1 @@
+import{_,k as e,j as t}from"./entry.d8cb5e60.js";const o={},s={id:"page-404"};function c(n,a){return t(),e("div",s,"404 Not Found")}const r=_(o,[["render",c],["__scopeId","data-v-e33e61b5"]]);export{r as default};
