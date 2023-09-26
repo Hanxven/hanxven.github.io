@@ -1,0 +1,1 @@
+import{_,k as t,j as c,v as a,x as n,l as s}from"./entry.6a777575.js";const d={},o=e=>(a("data-v-242b1009"),e=e(),n(),e),r=o(()=>s("a",{href:"/tools/hero-sequence"},"合理的表达式",-1)),p=o(()=>s("a",{href:"/games/minesweeper"},"扫雷",-1)),i=[r,p];function l(e,h){return c(),t("div",null,i)}const u=_(d,[["render",l],["__scopeId","data-v-242b1009"]]);export{u as default};
